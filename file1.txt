@@ -1,1 +1,3 @@
 This is file 1, another changes done by me
+#include<iostream>
+using namespace std;
